@@ -1,0 +1,23 @@
+{
+  "name": "blockvote",
+  "version": "1.0.0",
+  "description": "Decentralized Voting System",
+  "main": "truffle-config.js",
+  "scripts": {
+    "blockchain:dev": "truffle develop",
+    "blockchain:migrate": "truffle migrate",
+    "blockchain:test": "truffle test",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend:dev": "cd frontend && npm run dev",
+    "install:all": "npm run install:backend && npm run install:frontend",
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd frontend && npm install"
+  },
+  "dependencies": {
+    "ganache": "^7.9.2",
+    "truffle": "^5.11.5"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15"
+  }
+}
