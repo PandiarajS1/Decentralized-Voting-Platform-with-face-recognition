@@ -4,6 +4,51 @@ A full-stack MERN-based decentralized voting platform integrated with Ethereum s
 
 ---
 
+## 🧭 Project Userflow
+
+Follow the journey of a user through the decentralized voting dApp:
+
+### 1. 🏠 Homepage
+![Homepage](frontend/public/home_page.png)
+
+---
+
+### 2. 🔐 Authentication
+#### ➕ Register
+![Signup Form](frontend/public/signup_form.png)
+
+#### 🔑 Login
+![Login Form](frontend/public/login_form.png)
+
+#### 📲 OTP Validation
+![OTP Validation](frontend/public/otp_validation.png)
+
+---
+
+### 3. 📊 Dashboard
+![Dashboard](frontend/public/dashbooard.png)
+
+---
+
+### 4. 🗳️ Caste Vote Page
+![Caste Vote](frontend/public/caste_vate_page.png)
+
+---
+
+### 5. 🔍 Blockchain Identity Verification
+![Blockchain Secret](frontend/public/blochchain_secret.png)
+
+---
+
+### 6. 🦊 Metamask Confirmation
+![Metamask Confirm](frontend/public/metamask_confirm.png)
+
+---
+
+### 7. ✅ Vote Successful
+![Vote Successful](frontend/public/vote_successfull.png)
+
+
 ## 🚀 Features
 
 ### 👨‍💼 Admin
